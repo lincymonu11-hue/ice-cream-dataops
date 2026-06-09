@@ -23,6 +23,9 @@ variables:
         icapi_extractors_client_id: ${ICAPI_EXTRACTORS_CLIENT_ID}
         icapi_extractors_client_secret: ${ICAPI_EXTRACTORS_CLIENT_SECRET}
 
+      data_foundation:
+        data_developer_source_id: <OBJECT ID FOR DATA DEVELOPER ENTRA GROUP>
+
       use_cases:
         oee:
           data_pipeline_oee_source_id: <OBJECT ID FOR DATA PIPELINE OEE ENTRA GROUP>
