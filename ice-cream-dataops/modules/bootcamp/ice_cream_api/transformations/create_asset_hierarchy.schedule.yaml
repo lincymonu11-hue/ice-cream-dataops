@@ -1,0 +1,4 @@
+externalId: create_asset_hierarchy
+interval: '0 * * * *'        # Runs every hour at minute 0
+isPaused: {{ pause_transformations }}
+timeout: 3600
