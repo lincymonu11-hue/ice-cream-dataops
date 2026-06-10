@@ -77,4 +77,3 @@ capabilities:
       actions: [READ, WRITE]
       scope:
         all: {}
- 
