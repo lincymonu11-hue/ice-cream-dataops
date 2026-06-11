@@ -12,7 +12,7 @@ on:
         required: false
         type: choice
         options:
-          - test11
+          - test
           - prod
 
 jobs:
